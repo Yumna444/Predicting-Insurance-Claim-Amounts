@@ -6,8 +6,11 @@
 Build a Linear Regression model to predict medical insurance charges based on personal and lifestyle factors.
 
 
-📂 Dataset
+📂 Dataset:
+
+
 Medical Cost Personal Dataset named as insurance/ excel file
+
 
 Each row represents a person, with features:
 
