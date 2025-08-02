@@ -1,6 +1,8 @@
 🩺 Insurance Claim Amount Prediction
 
-🎯 Objective
+🎯 Objective:
+
+
 Build a Linear Regression model to predict medical insurance charges based on personal and lifestyle factors.
 
 
